@@ -84,8 +84,8 @@ public class BinarySearch {
 	
 	public static void main(String[] args) {
 		
-		int[] arr = {1, 2, 3};
-		BinarySearch bs = new BinarySearch(arr);
+		// int[] arr = {1, 2, 3};
+		// BinarySearch bs = new BinarySearch(arr);
 		
 		/*System.out.println(bs.search(0));
 		System.out.println(bs.search(1));
